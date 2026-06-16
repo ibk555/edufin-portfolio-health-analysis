@@ -1,5 +1,4 @@
-# edufin-portfolio-health-analysis
-# EduFin Loan Portfolio Health Analysis 📊💼
+# EduFin Loan Portfolio Health Analysis 📊
 
 ## 📌 Project Overview
 This project contains a comprehensive portfolio risk investigation for **EduFin**, an educational fintech lender experiencing a sudden portfolio-wide quality crisis[cite: 2]. Using **Databricks SQL**, this analysis translates raw operational loan data into executive-level financial insights, establishing a definitive baseline of risk exposure and automating health classification metrics to guide strategic C-suite decision-making[cite: 2].
